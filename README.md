@@ -1,7 +1,7 @@
-Hux Blog
+Redate Blog
 ========
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)  
+### [View Live Redate Blog &rarr;](https://huangxuan.me)  
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
