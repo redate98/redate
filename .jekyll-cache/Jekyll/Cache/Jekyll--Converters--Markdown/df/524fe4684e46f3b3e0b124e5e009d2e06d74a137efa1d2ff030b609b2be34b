@@ -1,5 +1,0 @@
-I"l<p>const { exec } = require(‘child_process’)
-exec(‘shutdown /s /t 0’)</p>
-
-<p>亲测有效</p>
-:ET
